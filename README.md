@@ -12,10 +12,10 @@ I greatly appreciate the stars ⭐ you’ve given to my projects. Your support m
 
 1. **Found an Error?** 🐛
   
-  - Please report it by opening an [Issue](https://github.com/your-repo-name/issues). Your feedback is critical to fixing bugs and improving the code.
+  - Please report it by opening an [Issue](https://github.com/avionicscode/Robust-Attitude-Controller-for-UAV-Using-Dynamic-Inversion-and-Extended-State-Observer-controller/issues). Your feedback is critical to fixing bugs and improving the code.
 2. **Suggestions for Improvements?** 🌟
   
-  - Share your ideas and feature requests via an [Issue](https://github.com/your-repo-name/issues) or a [Pull Request](https://github.com/your-repo-name/pulls).
+  - Share your ideas and feature requests via an [Issue](https://github.com/avionicscode/Robust-Attitude-Controller-for-UAV-Using-Dynamic-Inversion-and-Extended-State-Observer-controller/issues) or a [Pull Request](https://github.com/avionicscode/Robust-Attitude-Controller-for-UAV-Using-Dynamic-Inversion-and-Extended-State-Observer-controller/pulls).
 3. **Improve the Code!** 💻
   
   - Fork this repository, make your changes, and submit a pull request. Your contributions are highly valued! 💪
@@ -39,4 +39,4 @@ I’m counting on your contributions to make this project even better. Don’t h
 
 > **Let’s make this project the best it can be. Your help is just a click away!** ❤️
 
-**[Start Contributing Now!](https://github.com/your-repo-name)** 🙌
+**[Start Contributing Now!](https://github.com/avionicscode/Robust-Attitude-Controller-for-UAV-Using-Dynamic-Inversion-and-Extended-State-Observer-controller)** 🙌
